@@ -117,7 +117,7 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 
 ## 🔗 Useful Links
 
-- GitHub Repository: [github.com/YOUR_USERNAME/bitcoin2-prototype](https://github.com/YOUR_USERNAME/bitcoin2-prototype)
+- GitHub Repository: [github.com/YOUR_USERNAME/bitcoin2-prototype](https://github.com/mastr-x1/bitcoin2-prototype)
 - OQS Library: [https://openquantumsafe.org](https://openquantumsafe.org)
 - Libp2p Networking: [https://libp2p.io](https://libp2p.io)
 
